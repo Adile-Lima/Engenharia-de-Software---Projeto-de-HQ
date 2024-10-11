@@ -4,11 +4,11 @@ Atividade: Desenvolvimento Colaborativo de uma História em Quadrinhos com IA Ge
 Equipe HQ Ecoporanga
 
 Integrates
-1. Adile Lima da Silva
-2. Vagner Menengussi
-3.
-4.
-5.
+- Adile Lima da Silva
+- Vagner Menengussi
+- 
+- 
+- 
 
 Descrição do projeto:
 - Este projeto é uma história em quadrinhos criada pela equipe Equipe HQ Ecoporanga.
@@ -29,5 +29,5 @@ Organização do Projeto:
 - Quadro Kanban: https://github.com/users/Adile-Lima/projects/2
 
 Tecnologias e Ferramentas Utilizadas
-- Ferramenta de Design:
+- Ferramenta de Design: https://chatgpt.com/
 - Gestão de Projeto: GitHub Projects e Issues
