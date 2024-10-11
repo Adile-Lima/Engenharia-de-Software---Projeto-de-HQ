@@ -6,7 +6,7 @@ Equipe HQ Ecoporanga
 Integrates
 - Adile Lima da Silva
 - Vagner Menengussi
-- 
+- Mário Cesar Cunha Fialho
 - 
 - 
 
