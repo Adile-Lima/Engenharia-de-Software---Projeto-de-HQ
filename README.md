@@ -5,7 +5,7 @@ Equipe HQ Ecoporanga
 
 Integrates
 1. Adile Lima da Silva
-2.
+2. Vagner Menengussi
 3.
 4.
 5.
